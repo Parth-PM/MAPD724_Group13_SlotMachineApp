@@ -1,7 +1,8 @@
 //
 //  SwiftUIView.swift
+//  MAPD724_Group13_SlotmachinApp.swift
 //
-//  Created by Parth Maru on 2023-02-05.
+//  Date: 2023-02-19
 //
 //Authors: Parth Maru (301209761)
 //         Khushboo Kodwani (301273818)

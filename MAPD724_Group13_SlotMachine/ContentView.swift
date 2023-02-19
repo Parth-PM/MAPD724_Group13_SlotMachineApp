@@ -1,9 +1,8 @@
 //
 //  ContentView.swift
-//  MAPD724_Group13_SlotMachineApp.swift
-//  MAPD724_Group13_SlotMachine
+//  MAPD724_Group13_SlotmachinApp.swift
 //
-//  Created by Parth Maru on 2023-02-05.
+//  Date: 2023-02-19
 //
 //Authors: Parth Maru (301209761)
 //         Khushboo Kodwani (301273818)
@@ -190,6 +189,14 @@ struct ContentView: View {
                     Spacer()
                     
                     HStack{
+                        
+                        // Help and Support
+                        
+                        NavigationLink(destination: Help())
+                        {
+                        Image("help").resizable(capInsets: EdgeInsets(top: 0.0, leading: 0.0, bottom: 0.0, trailing: 0.0)).aspectRatio(contentMode: .fit).frame(width: 50.0, height: 50.0)
+                        }
+                     Text("  ")
                     
                     // Quit Game
                     

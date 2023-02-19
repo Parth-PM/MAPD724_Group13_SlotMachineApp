@@ -15,6 +15,7 @@
 		360830692990A6F800908085 /* MAPD724_Group13_SlotMachine.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 360830672990A6F800908085 /* MAPD724_Group13_SlotMachine.xcdatamodeld */; };
 		360830702990A72C00908085 /* QuitConfirmation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3608306F2990A72C00908085 /* QuitConfirmation.swift */; };
 		360830722990A73200908085 /* QuitGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360830712990A73200908085 /* QuitGame.swift */; };
+		3622215B29A2D9F600E20E03 /* Help.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3622215A29A2D9F600E20E03 /* Help.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		360830682990A6F800908085 /* MAPD724_Group13_SlotMachine.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MAPD724_Group13_SlotMachine.xcdatamodel; sourceTree = "<group>"; };
 		3608306F2990A72C00908085 /* QuitConfirmation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuitConfirmation.swift; sourceTree = "<group>"; };
 		360830712990A73200908085 /* QuitGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuitGame.swift; sourceTree = "<group>"; };
+		3622215A29A2D9F600E20E03 /* Help.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Help.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				3608305C2990A6F700908085 /* MAPD724_Group13_SlotMachineApp.swift */,
 				3608305E2990A6F700908085 /* ContentView.swift */,
 				3608306F2990A72C00908085 /* QuitConfirmation.swift */,
+				3622215A29A2D9F600E20E03 /* Help.swift */,
 				360830712990A73200908085 /* QuitGame.swift */,
 				360830602990A6F800908085 /* Assets.xcassets */,
 				360830652990A6F800908085 /* Persistence.swift */,
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3622215B29A2D9F600E20E03 /* Help.swift in Sources */,
 				360830722990A73200908085 /* QuitGame.swift in Sources */,
 				360830662990A6F800908085 /* Persistence.swift in Sources */,
 				360830702990A72C00908085 /* QuitConfirmation.swift in Sources */,
